@@ -8,7 +8,7 @@ So instructions for the user
 
 ### Data
 
-The csv files from QAPLIB can be found in `/data/*`.
+The csv files from QAPLIB$^1$ can be found in `/data/*`.
 
 There are a two types of data files; namely:
 
@@ -23,5 +23,5 @@ How can someone else use this repo to reproduce your results....
 
 # References
 
-If needed....
+1 Burkard, R.E., Karisch, S.E. and Rendl, F., 1997. QAPLIB–a quadratic assignment problem library. Journal of Global optimization, 10(4), pp.391-403.
 
