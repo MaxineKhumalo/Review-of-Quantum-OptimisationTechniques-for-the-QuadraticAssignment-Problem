@@ -1,6 +1,6 @@
 # Review of Quantum Optimisation Techniques for the Quadratic Assignment Problem
 
-This repo contains the code used in my MSc Computer Science project at the University of the Witwatersrand.
+This repo contains the code used in Maxine Thembi Khumalo's MSc Computer Science project at the University of the Witwatersrand.
 
 # What is inside this Repository
 ### Data
