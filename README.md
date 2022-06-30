@@ -20,6 +20,10 @@ These are paired to specific problem instances and used to improve the results o
 
 This folder lists only a sample of quantum results. 
 
+### Results.md
+
+This file shows the summary of the results described in ***Solving the Quadratic Assignment Problem using Variational Quantum Eigensolver and Quantum Approximate Optimisation Algorithm***
+
 # How to use
 
 1. Select the method of choice
